@@ -1,0 +1,13 @@
+# Do not upload environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System or IDE files
+.DS_Store
+.vscode/
+
+# Optional: Streamlit secrets
+.streamlit/secrets.toml
